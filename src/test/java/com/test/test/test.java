@@ -8,5 +8,6 @@ public class test {
     private String phone;
     private String telephone;
     private String username;
+    private String daparment;
 
 }
