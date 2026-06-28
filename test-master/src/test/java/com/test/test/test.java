@@ -7,5 +7,5 @@ public class test {
     private String passowrd;
     private String phone;
     private String telephone;
-
+    private String usename;
 }
